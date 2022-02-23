@@ -5,6 +5,6 @@
 var nombreestudiante="carlos"; //string 
 var grado="10A"; //string
 var edad="15"; //int
-var edad=prompt("el estudiante carlos del grado 10A tiene 15 años ")
-
+var edad=prompt("el estudiante carlos del grado 10A tiene")
+console.log("la edad de carlos es" +edad);
 
