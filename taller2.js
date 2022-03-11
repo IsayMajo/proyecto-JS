@@ -31,5 +31,60 @@ console.log("el area de un circulo es " + rd * rd * 3.1416)
 var volumfera;
 volumfera = prompt ( "ingrese el valor del radio de la esfera " );
 volumfera = ( 4 / 3 ) * 3.1416 * 3;
-console.log ( " el volumen de su esfera es ", volumfera ); 
+console.log ( " el volumen de su esfera es ", volumfera );
+
+//area del trapezoide
+var base1
+var base2
+base1=prompt("valor de la base:  ");
+base2=prompt("valor del la base:  ");
+console.log("el valordel trapezoide  "  + base1 + base2) 
+
+var H=prompt("valor de la lado del troapezoide:  ");
+var areatraper=base1+base2*H/2
+console.log("el valor del trapexoide es   " +areatraper )
+//litros de piscina
+var anchpis
+var largpis
+var profunpis=largpis/anchpis
+largpis=prompt("el valor del largo de la pisicina es:   ")
+anchpis=prompt("el valor del ancho de la pisicina es:   ")
+console.log("la profundidad de la piscina es  " +profunpis)
+//punto 6
+var alturapared 
+var anchopared
+var precio
+alturapared = prompt(" ingrese la altura de la pared ")
+anchopared = prompt (" ingrese el ancho de la pared ")
+precio = ( anchopared*alturapared)*22000
+console.log("su total a pagar es", precio) 
+// punto 7
+//a
+var centimetros
+var km
+centimetros = prompt ( " ingrese los cm que necesita convertir ")
+km = centimetros / 100000
+console.log(" su cantidad convertida a km es ", km)
+var desilitros 
+var litr
+desilitros = prompt (" ingrese los desilitros ue necesite convertir ")
+litr = desilitros / 10
+console.log(" su cantidad convertida a litro es", litr)
+var microgramos 
+var g
+microgramos = prompt (" ingrese los microgramos que desea convertir ")
+g = microgramos / 1000000
+console.log(" su cantidad convertida en gramos es", g)
+var km2 
+var milimetros 
+km2 = prompt (" ingrese los km que desee convertir ")
+milimetros = km2 * 1000000
+console.log(" su cantidad convertida a milimetros es", milimetros)   
+
+
+
+
+
+
+
 
