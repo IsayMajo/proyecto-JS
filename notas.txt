@@ -1,0 +1,17 @@
+Taller 1: Nota 3
+    * No utilizaron comentario de línea
+    * La varriable nombreestudiante debía ser declarada, no inicializada
+    * la variable edad, debía pedir el valor por teclado.
+    * El mensaje en línea 8, incorrecto
+    * Mensaje línea 9, incompleto
+
+Taller 2: Nota 2.6
+    * Linea 2, sin sentido
+    * Las variables en linea 4 no existen, eso genera error
+    * variables en linea 8 no existen.
+    * Primero se debe pedir la informacion y luego realizar operacion
+    * Mismo comentario anterior, para el perimetro del rectangulo
+    * linea 28, formula incorrecta
+    * linea 33, formula incorrecta
+    * Punto del trapezoide, incompleto y formula incorrecta
+    * linea 49, incorrecto, la profundidad se debe pedir por teclado
