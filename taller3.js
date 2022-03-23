@@ -35,3 +35,4 @@ var dinero;
 horas = prompt (" cuantas horas tardo su clase ");
 dinero =  40000 + (25000 * ( horas - 1 ));
 console.log (" el dinero de las horas es " + dinero );
+
