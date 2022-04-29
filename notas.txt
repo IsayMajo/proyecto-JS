@@ -1,3 +1,5 @@
+Isabela Ruiz, Maria Jose Henao
+
 Taller 1: Nota 3
     * No utilizaron comentario de línea
     * La varriable nombreestudiante debía ser declarada, no inicializada
@@ -15,3 +17,8 @@ Taller 2: Nota 2.6
     * linea 33, formula incorrecta
     * Punto del trapezoide, incompleto y formula incorrecta
     * linea 49, incorrecto, la profundidad se debe pedir por teclado
+
+Taller 3 (Recuperación): Nota 4.4
+- Del 4.4 le resto 0.5 para que logren pasar el primer taller y el 3.9 restante es la nota del segundo taller
+    * Mensaje linea 4, no es claro.
+    * Mesnaje linea 6, no aclara si es horas, minutos,...
