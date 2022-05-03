@@ -22,3 +22,14 @@ Taller 3 (Recuperación): Nota 4.4
 - Del 4.4 le resto 0.5 para que logren pasar el primer taller y el 3.9 restante es la nota del segundo taller
     * Mensaje linea 4, no es claro.
     * Mesnaje linea 6, no aclara si es horas, minutos,...
+
+
+*************************** segundo periodo
+
+Taller 1: nota 4.4
+    * linea 14 falta el simbolo <
+    * linea 41, condicional incorrecta
+    * linea 55, debe ser tambien igual a 50 y 80
+    * linea 57, condicional 2 incorrecta
+
+enlace examen: https://acortar.link/HmjOm1
