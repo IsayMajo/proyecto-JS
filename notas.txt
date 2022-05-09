@@ -33,3 +33,11 @@ Taller 1: nota 4.4
     * linea 57, condicional 2 incorrecta
 
 enlace examen: https://acortar.link/HmjOm1
+
+
+Examen: Nota 4.3
+    * Linea 23, debía ser "20"
+    * linea 27, incorrecta. condicion incompleta
+    * linea 35, incorrecta
+    * punto 5, si recibe un valor que no está en la lista, no responde
+    * Punto 6 sin resolver, no tiene puntos
