@@ -1,0 +1,63 @@
+
+/*console.log (" punto1" )
+var num1=parseInt(prompt(" ingrese un numero "));
+var num2=prompt (" ingrese otro numero ");
+var menor;
+var mayor;
+if(num1<num2){
+menor=num1
+mayor=num2
+}else{
+    menor=num2
+    mayor=num1
+}
+for(var i=menor; i<=mayor; i++) {
+        console.log(i);
+    }
+
+console.log(" punto2 ")
+var nummulti=parseInt(prompt(" ingrese un numero "));
+for(var i=0;i<=10;i++){
+    console.log(nummulti*i)
+}
+
+console.log(" punto3 ")
+var multi=parseInt(prompt(" ingrese un numero "));
+var limite=prompt(" ingrese el limite ");
+for(var i=0;i<=limite;i++){
+    console.log(multi*i)
+}
+
+console.log(" punto4 ")
+var arreglonumero=[];
+for(var i=0; i<10; i++) {
+    var numero=parseInt(prompt(" ingrese un numero "));
+    arreglonumero.push(numero);
+}
+var mayorr= arreglonumero[0]
+for(var i=0; i <arreglonumero.length; i++) {
+if (arreglonumero[i]>mayorr){
+mayorr=arreglonumero[i]
+}
+}
+console.log(" el numero es " + mayorr)
+*/
+
+console.log(" punto5 ")
+var arreglonombres=[];
+for(var i=0; i<5; i++) {
+    var nombre=prompt(" ingrese un nombre ");
+    arreglonombres.push(nombre);
+}
+console.log(arreglonombres);
+var arregloprecio=[];
+for(var i=0; i<5; i++) {
+    var precio=prompt(" ingrese el precio de " + arreglonombres [i] );
+    arregloprecio.push(precio);
+}
+console.log(arregloprecio);
+
+var producto=prompt(" ingrese un producto ");
+for (var i=0; i<5; i++) {
+
+}

@@ -57,7 +57,7 @@ while(ciclo6<estudiantes) {
     ciclo6+=1;
 }
 console.log("el acumulado de edades es")    
-
+  
 
 
 
