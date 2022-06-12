@@ -51,3 +51,4 @@ taller while: nota 3.6
 
 examen while: nota
     * no está en git hub
+ciclo for: nota ***no se subió el archivo***
