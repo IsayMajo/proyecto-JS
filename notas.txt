@@ -35,9 +35,20 @@ Taller 1: nota 4.4
 enlace examen: https://acortar.link/HmjOm1
 
 
-Examen: Nota 4.3
+Examen condicionales: Nota 4.3
     * Linea 23, debía ser "20"
     * linea 27, incorrecta. condicion incompleta
     * linea 35, incorrecta
     * punto 5, si recibe un valor que no está en la lista, no responde
     * Punto 6 sin resolver, no tiene puntos
+
+taller while: nota 3.6
+    * punto 5, el mensaje debe ser mas claro para que el usuario sepa cuando y como hacer que pare el ciclo
+    * linea 56, no va a sumar nada porque acu no está definida
+    * linea 59, no muestra el resultado del acumulado
+    * demás puntos no están resueltos
+
+
+examen while: nota
+    * no está en git hub
+ciclo for: nota ***no se subió el archivo***
