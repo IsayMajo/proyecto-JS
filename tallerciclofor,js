@@ -1,5 +1,5 @@
 
-/*console.log (" punto1" )
+console.log (" punto1" )
 var num1=parseInt(prompt(" ingrese un numero "));
 var num2=prompt (" ingrese otro numero ");
 var menor;
@@ -41,7 +41,7 @@ mayorr=arreglonumero[i]
 }
 }
 console.log(" el numero es " + mayorr)
-*/
+
 
 console.log(" punto5 ")
 var arreglonombres=[];
