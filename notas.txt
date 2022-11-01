@@ -52,3 +52,9 @@ taller while: nota 3.6
 examen while: nota
     * no está en git hub
 ciclo for: nota ***no se subió el archivo***
+
+
+Geometría:
+    Nota: 4,2
+    * Hace llamado a funciones que no existen
+    * Los mensajes son poco claros, solo entrega el valor del resultado
