@@ -1,4 +1,4 @@
-//Isabela Ruiz 
+//Isabela Ruiz, Valeria Ramirez y Maria Jose Henao
 //punto 2
 
 function suma(num1, num2){
@@ -53,3 +53,4 @@ return resultado;
     }   
 
     }
+    
